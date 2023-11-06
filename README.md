@@ -11,4 +11,4 @@ Tal repositório é destinado para a criação de algoritmos, tendo como seus pi
 * Matrizes
 
 
-Os seguintes códigos são aplicados via VisualG, onde apenas no mesmo será possível ver o resultado. Nesse caso, baixe o <a href="http://visualg3.com.br/baixar-o-visualg3-0/">VisualG</a>.
+Os seguintes códigos encontrados na pasta [Algoritmos](https://github.com/Glimone/Algoritmos_Portugol/tree/main/Algoritmos) são aplicados via VisualG, onde apenas no mesmo será possível ver o resultado. Nesse caso, baixe o <a href="http://visualg3.com.br/baixar-o-visualg3-0/">VisualG</a>.
