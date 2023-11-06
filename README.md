@@ -1,4 +1,4 @@
-# Algoritmos_Portugol
+# Algoritmos em Portugol
  Criação de algoritmos utilizando o pseudocógido portugol.
 
 Tal repositório é destinado para a criação de algoritmos, tendo como seus pilares: 
