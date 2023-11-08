@@ -1,28 +1,28 @@
 algoritmo "semnome"
 var
    Matematica: Real
-   Português:  Real
+   Portuguï¿½s:  Real
    Media_Final:Real
 inicio
       Escreval ("Informe a sua nota em matematica:")
       Leia (Matematica)
-      Escreval ("Informe a sua nota em português:")
-      Leia (Português)
-      Media_Final <- (Português + Matematica) /2
+      Escreval ("Informe a sua nota em portuguï¿½s:")
+      Leia (Portuguï¿½s)
+      Media_Final <- (Portuguï¿½s + Matematica) /2
       
-      Se (Português e Matematica < 0) e (Matematica e português > 10) entao
-         Escreval ("Essa resposta é inválida, retorno ao inicio e digite novamente")
+      Se (Portuguï¿½s e Matematica < 0) e (Matematica e portuguï¿½s > 10) entao
+         Escreval ("Essa resposta ï¿½ invï¿½lida, retorno ao inicio e digite novamente")
       
       FimSe
       
       Se (Media_Final > 6) entao
-         Escreval ("Você foi aprovado")
+         Escreval ("Vocï¿½ foi aprovado")
       SeNao
            Se (Media_Final < 6) entao
-              Escreval ("Você foi reprovado")
+              Escreval ("Vocï¿½ foi reprovado")
            SeNao
                 Se (Media_Final = 6) entao
-                   Escreval ("Você tirou a nota de recuperação, terá que refazer a prova")
+                   Escreval ("Vocï¿½ tirou a nota de recuperaï¿½ï¿½o, terï¿½ que refazer a prova")
                 FimSe
            FimSe
       FimSe
